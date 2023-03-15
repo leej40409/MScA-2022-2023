@@ -1,2 +1,2 @@
-# MScA-2022-2023
+# MScA
 Course Material
